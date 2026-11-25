@@ -46,7 +46,6 @@ Auch Rumänien verzeichnet einen hohen relativen Zuwachs. Dennoch bleibt das Lan
 ## Datengrundlage
 
 Die Analyse basiert auf dem Eurostat-Datensatz *Artificial intelligence by size class of enterprise* (`isoc_eb_ai`).
-
 - Untersuchungsgebiet: 27 EU-Mitgliedstaaten
 - Erhebungsjahre: 2021, 2023, 2024 und 2025
 - Untersuchungseinheit: Unternehmen mit mindestens zehn Beschäftigten in den erfassten Wirtschaftszweigen
