@@ -4,6 +4,8 @@ Eine datenjournalistische Analyse mit Python.
 
 Immer mehr Unternehmen setzen auf künstliche Intelligenz. Doch wie unterschiedlich entwickelt sich die KI-Nutzung in den EU-Ländern? Holen bisherige Nachzügler auf oder wächst der Abstand zwischen Vorreitern und Schlusslichtern?
 
+![KI-Nutzung in der EU 2025](output/ki_ranking_2025.png)
+
 ## Die wichtigsten Ergebnisse
 
 - Der Anteil der Unternehmen, die KI einsetzen, ist EU-weit von 7,7 Prozent im Jahr 2021 auf knapp 20 Prozent im Jahr 2025 gestiegen.
@@ -34,7 +36,7 @@ Die Ergebnisse zeigen zwei unterschiedliche Entwicklungen:
 Die Frage nach einer wachsenden digitalen Kluft lässt sich also nicht pauschal mit Ja oder Nein beantworten.
 
 ## Welche Länder aufholen
-
+![Veränderungen im KI-Ranking](output/rangveraenderungen.png)
 In allen 24 Ländern, die für den individuellen Zeitvergleich berücksichtigt wurden, ist die KI-Nutzung zwischen 2021 und 2025 gestiegen.
 
 Besonders auffällig ist Estland: Dort stieg der Anteil der Unternehmen, die KI nutzen, von 2,8 auf 23,4 Prozent. Im Ländervergleich kletterte Estland von Platz 21 auf Platz 7.
